@@ -1,0 +1,12 @@
+body {
+    background: #28282A;
+    margin-top: 2%;
+    color: #fff;
+}
+
+.border-color {
+    min-height: 100px;
+    background: #134359;
+    border: 1px solid #fff;
+    padding-top: 3%;
+}
